@@ -1,5 +1,5 @@
 server:
-  port: ${PORT:8813}
+  port: ${PORT:8873}
 message: Configuracion de apoderado levantado!
 
 spring:

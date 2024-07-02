@@ -1,1 +1,3 @@
-
+server:
+  port: ${PORT:8813}
+message: Configuracion de apoderado levantado!
